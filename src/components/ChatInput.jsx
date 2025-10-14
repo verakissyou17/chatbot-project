@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Chatbot } from "supersimpledev";
 import loadingSpinner from "../assets/loading-spinner.gif";
 import "../styles/ChatInput.css";
